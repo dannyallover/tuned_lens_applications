@@ -1,0 +1,1 @@
+{"dropout": 0.0, "identity_init": true, "include_input": true, "mlp_hidden_sizes": [], "rank": null, "shared_mlp_hidden_sizes": [], "share_weights": false, "sublayers": false, "num_layers": 36, "vocab_size": 50688, "bias": true, "d_model": 5120}

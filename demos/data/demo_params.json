@@ -1,0 +1,1 @@
+{"num_demos_": {"gpt2_xl": 20, "gpt_j": 40, "gpt_neox": 40, "gpt_neo_125M": 15, "gpt_neo_1.3B": 30, "gpt_neo_2.7B": 30, "opt_125M": 15, "opt_1.3B": 30, "pythia_13B_deduped": 30, "bloom_560M": 20}, "percent_true": 0, "permuted": true}
